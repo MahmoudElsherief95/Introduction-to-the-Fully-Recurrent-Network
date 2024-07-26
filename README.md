@@ -1,5 +1,6 @@
 # Introduction-to-the-Fully-Recurrent-Network
 
+
 ## Exercise 1: Numerical stability of the binary cross-entropy loss function
 
 We will use the binary cross-entropy loss function to train our RNN, which is defined as
